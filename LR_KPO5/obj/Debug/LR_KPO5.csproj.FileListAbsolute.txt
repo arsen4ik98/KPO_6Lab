@@ -10,3 +10,9 @@ C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\л
 C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 6\LR_KPO5\bin\Debug\LR_KPO5.exe
 C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 6\LR_KPO5\bin\Debug\LR_KPO5.pdb
 C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 6\LR_KPO5\obj\Debug\LR_KPO5.csprojResolveAssemblyReference.cache
+C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 6\KPO_6Lab\LR_KPO5\bin\Debug\LR_KPO5.exe.config
+C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 6\KPO_6Lab\LR_KPO5\obj\Debug\LR_KPO5.exe
+C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 6\KPO_6Lab\LR_KPO5\obj\Debug\LR_KPO5.pdb
+C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 6\KPO_6Lab\LR_KPO5\bin\Debug\LR_KPO5.exe
+C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 6\KPO_6Lab\LR_KPO5\bin\Debug\LR_KPO5.pdb
+C:\Users\Арсен\Desktop\Универ\3 курс\КонстрПО\Лабы\лаба 6\KPO_6Lab\LR_KPO5\obj\Debug\LR_KPO5.csprojResolveAssemblyReference.cache

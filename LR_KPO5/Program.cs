@@ -12,7 +12,7 @@ namespace LR_KPO5
         {
            
             // создаем каталог
-            int m = 0;
+       
             Component diskC = new Directory("Диск С", 0);
             // создаем подкаталоги
             Component myDocuments = new Directory("Мои документы", 0);
@@ -35,29 +35,9 @@ namespace LR_KPO5
             diskC.Add(generalDocuments);
             // выводим все данные
             diskC.Print();
-            while (m < 1)
-            {
-            Console.WriteLine("Будете делать еще действии? : если да пишите 1 , если нет пишите 0");
-            string a = Console.ReadLine();
-            if (a == "1")
-            {
-                Console.WriteLine("Пишите действие");
-                string work = Console.ReadLine();
-                if (work == "+Изображение")
-                {
-                    myDocuments.Add(jpegFile);
-                    diskC.Print();
-                    Console.WriteLine();
-                    continue;
-                }
-            }
-            else if (a == "0")
-            {
-                Console.Read();
-            }
-            }
-            //Console.WriteLine();
-            //Console.Read();
+
+            Console.WriteLine();
+            Console.Read();
         }
     }
 }
